@@ -11,5 +11,5 @@ This repository contains several notebooks with examples of how to apply Pangeo 
 - [Numpy](https://numpy.org/) -  Numerical python computing tool for multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 - [Xarray](http://xarray.pydata.org/en/latest/) -  For N-dimensional labelled arrays, NumPy-like multidimensional arrays.
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html) -  Python package designed for geospatial data processing and mapping
-- [eofs](https://ajdawson.github.io/eofs/latest/index.html)  eofs is a Python package for EOF analysis of spatial-temporal data
+- [eofs](https://ajdawson.github.io/eofs/latest/index.html) - eofs is a Python package for EOF analysis of spatial-temporal data
 - [xMCA](https://github.com/Yefee/xMCA) -  Inspired from eofs, is Maximum Covariance Analysis (sometimes also called SVD) in xarray.
