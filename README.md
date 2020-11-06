@@ -12,4 +12,4 @@ This repository contains several notebooks with examples of how to apply Pangeo 
 - [Xarray](http://xarray.pydata.org/en/latest/) -  For N-dimensional labelled arrays, NumPy-like multidimensional arrays.
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/index.html) -  Python package designed for geospatial data processing and mapping
 - [eofs](https://ajdawson.github.io/eofs/latest/index.html)  eofs is a Python package for EOF analysis of spatial-temporal data
-- [xMCA](https://github.com/Yefee/xMCA) -  Inspired from EOFs https://github.com/ajdawson/eofs, is Maximum Covariance Analysis (sometimes also called SVD) in xarray.
+- [xMCA](https://github.com/Yefee/xMCA) -  Inspired from eofs, is Maximum Covariance Analysis (sometimes also called SVD) in xarray.
